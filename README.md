@@ -6,6 +6,16 @@
 
 A multi-tenant B2B workspace for Canary Islands holiday-rental dossiers, private documents, review checklists and traceable rule workflows.
 
+## Preview
+
+![English-language document organization checker](docs/assets/document-checker.png)
+
+The public checker asks about document organization without collecting property records. It does not assess legal compliance.
+
+<!-- Future screenshots: authenticated workspace with fictional demo data only.
+Property workspace, document versions, review checklist.
+Add verified captures here; do not insert broken image paths or real records. -->
+
 [![CI](https://github.com/Fernise/expediente-vv/actions/workflows/ci.yml/badge.svg)](https://github.com/Fernise/expediente-vv/actions/workflows/ci.yml)
 
 **Technology:** React · TypeScript · Vinext/Vite · Cloudflare D1/R2 · Drizzle
@@ -21,15 +31,24 @@ For property professionals organizing holiday-rental documentation and review wo
 - Versioned rules, independent professional review and traceable evaluations.
 - Private export, retention/deletion workflows and recovery verification.
 
+## Screenshots
+
+![Expediente VV landing page with fictional dossier examples](docs/assets/preview.png)
+
+The local landing page includes fictional dossier examples. Authenticated property-workspace captures remain pending.
+
+<details>
+<summary>Mobile view</summary>
+
+<img src="docs/assets/mobile-checker.png" width="390" alt="Public document organization checker on a mobile screen" />
+
+The English public checker with no property details or answers entered.
+
+</details>
+
 ## Project status
 
 An anonymized-pilot MVP. Included rules and checklist states are drafts, not legal certification or professional advice. Real documents and live-data workflows require the outstanding security/provider checks; publication of this source does not enable them.
-
-## Preview
-
-![Local Expediente VV interface](docs/assets/preview.png)
-
-Captured locally using fictional interface examples and no real property records.
 
 ## Quick start
 
