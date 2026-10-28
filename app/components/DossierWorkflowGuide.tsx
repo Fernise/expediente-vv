@@ -1,0 +1,11 @@
+"use client";
+import { useLanguage } from "@/app/components/Language";
+import { dossierStatusLabels, type DossierStatus } from "@/lib/property-status";
+export function DossierWorkflowGuide({status,canReadLaboratory=true}:{status:DossierStatus;canReadLaboratory?:boolean}) {
+  const {locale}=useLanguage();const en=locale==="en";
+  return <section className="dossier-workflow-guide" aria-label={en?"Case file workflow":"Flujo del expediente"}>
+    <div><h2>{en?"Case file and report":"Expediente e informe"}</h2><p>{en?"Save your changes and generate a new PDF. Earlier copies do not update.":"Guarda los cambios y genera un PDF nuevo. Las copias anteriores no se actualizan."}</p></div>
+    <nav aria-label={en?"Sections":"Secciones"}><a href="#checklist">{en?"1. Work plan":"1. Plan de trabajo"}</a>{canReadLaboratory?<a href="#laboratory">{en?"2. Declared facts":"2. Hechos declarados"}</a>:null}<a href="#documents">{en?"3. Evidence and versions":"3. Evidencias y versiones"}</a></nav>
+    <details><summary>{en?"How is progress calculated?":"¿Cómo se calcula el progreso?"}</summary><p>{en?"Operational tasks and professional requirements are counted separately. Open operational work keeps the file incomplete. Professional observations require attention. Only completed operational work and formally reviewed requirements can result in a professionally reviewed file. A file with only operational tasks is never marked professionally reviewed.":"Las tareas operativas y los requisitos se cuentan por separado. El trabajo operativo pendiente mantiene el expediente incompleto. Las observaciones profesionales requieren atención. Solo la gestión completada y los requisitos revisados formalmente permiten marcarlo como revisado por profesional. Un expediente con solo tareas operativas nunca recibe ese estado."}</p><p>{en?"Adding work can reopen progress. Files, laboratory answers and status labels do not certify legality. Decisions remain tied to their evidence version.":"Añadir trabajo puede reabrir el progreso. Los archivos, las respuestas del laboratorio y los estados no certifican legalidad. Las decisiones conservan su vínculo con la versión revisada de la evidencia."}</p></details>
+  </section>;
+}

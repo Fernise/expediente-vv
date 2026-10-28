@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX `professional_reviews_active_item_uidx` ON `professional_reviews` (`organization_id`,`checklist_item_id`) WHERE "professional_reviews"."invalidated_at" IS NULL;

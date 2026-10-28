@@ -1,0 +1,7 @@
+// Type generation only. Hosting remains managed by Sites and vite.config.ts.
+{
+  "name": "expediente-vv-types",
+  "main": "worker/index.ts",
+  "compatibility_date": "2026-08-28",
+  "compatibility_flags": ["nodejs_compat"]
+}

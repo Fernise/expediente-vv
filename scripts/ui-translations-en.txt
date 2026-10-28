@@ -1,0 +1,567 @@
+Create an organisation first
+Back to home
+Operational overview
+Alerts
+Dates, tasks and reviews needing attention in
+Saved internal reminders
+Overdue
+Next 30 days
+Review
+Operational total
+Sorted by urgency and target date.
+No alerts in this category
+New dates and reviews will appear here automatically.
+Assigned to:
+Open dossier
+Restricted audit access
+Only an administrator can view the workspace's complete history.
+Back to overview
+Activity tracking
+Audit
+Review activity in
+without displaying document or comment contents.
+Organisation activity log
+Newest first
+Activity
+Events in the last 30 days
+Access
+Invitations, roles and revoked access
+Documents
+Uploads, versions and downloads
+Rules
+Editing, review and evaluations
+Search audit log
+Person
+Period
+Filter
+Clear
+Workspace history
+event
+with the current filters.
+Page
+of
+No activity matches these filters
+Try a different period, person or action type.
+View all activity
+Previous
+Next
+The history retains essential operational metadata. It does not copy files, comments, addresses or cadastral details.
+We couldn't open this section.
+Check your connection and try again. No pending action has been confirmed.
+Try again
+Opening your workspace…
+Loading this section's information.
+Create a workspace first
+Restricted operations access
+Only administrators can view the workspace's technical health.
+Pilot monitoring
+Operations
+Technical signals for
+without displaying recipients, documents or personal data.
+Email provider
+Queued or retrying
+Failures without retry
+Stalled processes
+Recent runs
+Automatic tasks
+Waiting for the first run
+History will appear after the next scheduled cycle.
+Operational response
+What needs attention
+Immediate
+Failed automatic process, blocked queue or exhausted delivery attempts.
+Today
+Email not configured or messages waiting for another attempt.
+Follow-up
+Keep the request identifier provided for support.
+This panel shows operational signals. It does not replace external alerts or prove that a backup can be restored.
+Real data: still blocked
+Account identity
+linked to a stable identifier.
+Second factor
+Not verified; signing in does not prove MFA is enabled.
+Files
+Pilot structural checks; external malware scanning pending.
+Recovery
+Local restore tested; automatic production backup pending.
+Stable operation does not mean the product is ready for real documents. MFA verification, linking the legacy accounts listed above, external malware scanning and independent recurring production backups are still pending.
+Expediente VV
+Preparing your workspace
+The database is not available yet.
+Try again shortly once storage setup is complete.
+First step · 1 of 3
+Create your professional workspace
+Your properties, team, rules and activity history live here. Each organisation's data stays separate.
+Organisation isolation
+Activity tracking from day one
+Signed in as
+Your workspace
+Good morning,
+These properties need attention today.
+Pilot · unvalidated rules
+Add property
+Priority attention
+Your organisation's dossiers, sorted by status.
+View all
+No properties yet
+Create the first property to generate its guidance dossier and assign the next action.
+Create property
+Property
+Status and assignee
+pending items
+Assigned to ·
+Current workflow
+From a manual dossier to a traceable evaluation.
+Create property and owner record
+Declared facts and manual checklist
+Private evidence with technical checks
+Laboratory rule evaluation
+UNVALIDATED DRAFT
+Traceable engine
+Deterministic laboratory rules
+Results retain the version, input facts and reasoning. They do not contain definitive legal requirements.
+View rules and sources
+Demo version
+Restricted privacy access
+Only administrators can export or delete the entire workspace.
+Workspace controls
+Data and privacy
+See what is stored in
+, download a copy and manage deletion without contacting support.
+Administrator access
+Actions recorded
+Deletion is scheduled for this workspace. Download anything you need to keep first.
+Properties
+People with access
+Checked files
+Current retention
+While the workspace remains active
+Archived properties and their activity records are retained to preserve history.
+Files rejected by security checks are not added to the dossier.
+A deletion request can be cancelled within 30 days.
+After that period, private files and the workspace audit log are also deleted.
+The pilot does not automatically apply legal retention periods: each organisation must decide which documents to keep outside the tool.
+Before adding real dossiers
+Use anonymised data until controller and processor responsibilities, the legal basis and applicable retention periods are defined. Pilot enquiries:
+expedientevv.canarias@gmail.com
+Back to dossier
+Controlled editing
+Edit property
+Update operational information. History records which fields changed without copying personal information into the audit log.
+PDF report
+Indicative dossier status
+This dossier organises information and outstanding tasks. It does not certify a property's legality or replace professional review.
+Anonymised test
+Do not add names, contact details, identifiers, signatures or an exact address. Checks reduce mistakes, but review every file before uploading it.
+Checklist progress
+Items closed by a professional
+Next action
+Assigned to
+Next-step coordination
+Applied version
+Work list
+Dossier checklist
+Generated on
+Evidence:
+Previous review invalidated
+The evidence changed. The current version must be reviewed.
+Evidence
+Private documents
+Each file passes basic technical checks before becoming available. These do not replace specialist antivirus scanning.
+No documents
+Add the first piece of evidence when it is available.
+Version
+History ·
+v
+Download
+Expires:
+Showing
+· Page
+Previous
+Next
+Property details
+Edit
+Address
+Postcode
+Owner
+Email
+Phone
+Cadastral reference
+Internal comments
+Latest 30 comments. Not visible to owners.
+No comments yet.
+Archive
+Archiving hides the property from active lists but preserves documents and history.
+New dossier
+Enter the essential information. On completion, its workspace opens with the initial checklist ready.
+Private to
+Dossiers
+result
+in
+Export CSV
+Search properties
+Archived
+Municipality
+No properties found
+Change the filters or create a dossier for this organisation.
+Indicative status
+pending
+Open
+Restricted rules access
+Your role can work on assigned dossiers but cannot view the internal rules catalogue.
+Back to properties
+Phase 3 · rules and activity tracking
+Rules laboratory
+A deterministic, auditable rule set for testing the engine before adding professional content.
+Evaluate a property
+Active laboratory set
+· immutable
+Linked rules
+Each has a source and typed condition
+Editorial status
+Publication blocked
+Structural conflicts
+Included rules
+Each result retains the input fact, condition and reasoning.
+IF
+IS
+→ suggest task
+Immutable
+Linked source
+Issuer
+Title
+Scope
+Accessed
+Status
+Internal draft
+Conflict checks
+Some rules have the same condition but opposite outcomes. Resolve these before any review.
+No identical conditions with opposite outcomes were detected in this version.
+Publication remains blocked by editorial governance.
+Automatic comparison
+Changes from the previous version
+The composition and content have not changed.
+Create a new version to enable comparison.
+Immutable history
+Rule-set versions
+Restricted team access
+Only an administrator can invite members or change access.
+Access and responsibilities
+Team
+Choose who can enter
+and which properties they can view.
+Workspace isolation
+Changes are recorded
+With access
+Active people in this workspace
+Limited access
+Professionals and owners
+Pending
+Invitations not yet accepted
+V
+New workspace
+It will have its own properties, documents and members.
+Workspace name
+Cancel
+We will use demonstration data during the pilot.
+Portability
+Download a complete copy
+The ZIP includes structured data, the audit log and document versions that passed technical checks.
+Download ZIP
+Download properties CSV
+If the package exceeds 250 MB, documents must be downloaded from each dossier during the pilot.
+Workspace deletion
+Scheduled deletion
+The workspace and its files will be permanently deleted from
+. Until then, it works normally and you can cancel the request.
+Delete this workspace
+The request opens a 30-day recovery period. Afterwards, properties, team records, history and private files are deleted.
+Type
+to confirm
+I have downloaded everything I need to keep.
+Request received
+Thank you. We will review whether the pilot suits your team.
+We will reply to the email provided. Do not send documents or property details through this channel.
+Try the guidance checker
+Full name *
+Professional email *
+Organisation or professional brand *
+Professional role *
+Properties managed *
+What would you like to validate?
+(optional)
+Website
+I have read the
+privacy information
+and agree to the use of these details to respond to my request. *
+I would like occasional pilot updates. I can withdraw this consent at any time.
+Do not include addresses, documents or owners' personal data. We retain the request for a maximum of 12 months.
+Supports
+No linked requirement
+Saving…
+Link current evidence before reviewing.
+Record review
+Professional decision
+The decision applies to the selected version. Other evidence remains unassessed.
+Reviewed evidence
+Decision
+Professional observation *
+/800 · the decision cannot be edited
+Add document
+Add private evidence
+PDF, JPG or PNG · maximum 10 MB.
+Document type *
+Requirements supported
+Select several or leave the document unlinked.
+Document date
+Expiry date
+File *
+The actual file type, structure and known active content will be checked. Files that fail are not saved.
+I confirm this is a fictitious or anonymised file with no names, identity numbers, phones, emails, signatures, IBANs or exact address.
+New version
+The previous version is retained in the history.
+The new version must pass technical checks again.
+I confirm this version is anonymised.
+Internal comment
+The property will disappear from active lists. Its history will be retained.
+Archive property
+Property and location
+Correct identification without changing the privacy profile.
+Property alias *
+Omitted in anonymised testing.
+Island *
+Municipality *
+Assigned by island
+No results.
+Postcode *
+Cadastral reference
+Dossier management
+Update the status, assignee and next step.
+Activity status
+Target date
+Keep only the information needed for management.
+Controlled testing
+Use anonymised data
+Keep direct identifiers out of the dossier and enable additional warnings in comments and documents.
+No exact address or cadastral reference
+Owner identified by alias only
+No email, phone, identity numbers, IBAN or signatures
+Required in the pilot
+Property identification
+Identify the dossier without adding unnecessary information.
+No municipalities match this search.
+We only request information needed to coordinate the dossier.
+Safe alias; do not enter the real name.
+Define the first step. You can change the assignee and date later.
+Next action
+After creation, you enter its dossier directly. The initial checklist is an operational draft, not legal advice.
+Product
+Checker
+Pricing
+Demo
+Document organisation for holiday rentals.
+Legal notice
+Privacy
+Official sources
+Indicative result
+organised practices
+pending actions
+points to confirm
+Recommended next steps
+Next step
+Keep the dossier updated and refer any uncertainty for professional review before drawing conclusions.
+This result only assesses the organisational habits you report. It does not examine documents, regulations or a property's situation.
+Start again
+Organise it with Expediente VV
+Progress
+Choose “Not yet” if it needs organising and “Not sure” if you need to confirm it. Both answers help identify the next step.
+View indicative result
+Answers are calculated on this screen. They are not stored or sent anywhere.
+Your role can view and compare rules but cannot create versions.
+Controlled editor
+Every change creates a new version; it never rewrites the past.
+Create new version
+New rule version
+It will be saved as an unvalidated draft.
+Base rule
+Displayed title *
+Explanation *
+Typed fact
+Value triggering the task
+The source is retained and publication remains blocked.
+Phase 3 · laboratory
+Traceable evaluation
+Enter declared facts and run
+. Nothing is interpreted as a legal conclusion.
+Dossier facts
+Source: team declaration
+You can view the trace, but only a manager can change declared facts.
+No evaluation yet
+Complete the known facts. Missing values appear as “information needed”, never as a positive answer.
+Suggested tasks
+No task in this draft
+Information needed
+Input fact
+Observed value
+Condition
+equals
+Reason
+Engine
+· fingerprint
+Editorial governance
+Review workflow
+Authorship, professional review and approval are separate and recorded.
+Professional note *
+Approval note
+Withdraw from review
+Request changes
+Resolve conflicts before starting review.
+Waiting for someone with a professional role.
+Review recorded. Independent approval pending.
+Version approved. Publication remains disabled in this pilot.
+Decision history
+No editorial decisions for this version yet.
+Invite someone
+Choose their role and scope before granting access.
+Email address
+Role
+Access to the whole workspace
+They can view all properties according to their role.
+member
+active
+Pending invitations
+Expire after 14 days and can be resent without duplicates.
+No pending invitations
+New invitations appear here until accepted.
+You
+Protected access
+Access until
+Leave empty for access without an expiry date.
+Entire workspace
+The role allows viewing all properties.
+Revoke all their access?
+Yes, revoke
+Revoke access
+Authorised properties
+They can only open the dossiers you select.
+Create a property before assigning this role.
+Skip to content
+Workspace
+Overview
+Administration
+Rules and sources
+Indicative statuses. This tool does not certify legality.
+Professional workspace
+Working in
+Your workspaces
+Each keeps properties, documents, team and permissions separate.
+Create another workspace
+Starts empty and separate from the current workspace
+Sign out
+Home
+Free check · 2 minutes
+Is your dossier organised for work?
+Answer six questions about document management. We do not request property details or assess its legal situation.
+The result covers organisation, traceability and next actions only. A positive answer never means “compliant”.
+Before you start
+No preparation needed.
+Do not enter an address or cadastral reference.
+Do not upload documents or owners' names.
+Answer based on your current process, even if you are unsure.
+Official procedure
+For administrative information, always consult the Canary Islands Government's online service.
+Open official procedure
+Page not found
+We couldn't find this page.
+The address may have changed or the link may no longer be available.
+Private pilot in the Canary Islands
+Every property,
+its complete dossier at hand.
+Bring properties, documents and deadlines together so your team knows what is missing, what is urgent and who is responsible.
+Explore the workspace
+Check my dossier
+It does not certify legality or replace professional advice or official procedures.
+GA
+Organisation
+Gestoría Atlántico
+AM
+Example view
+Fictitious data
+Need attention
+documentation
+Expiring soon
+next 30 days
+For review
+by a professional
+Property / location
+Dossier status
+CA
+Casa Atlántico
+Las Palmas de G.C.
+Documentation pending
+VM
+Villa Marea
+Puerto de la Cruz
+Review required
+AD
+Apartamento Drago
+Teguise
+Ready for review
+3 example dossiers
+View the full workspace
+Version history
+Timely alerts
+At a glance
+What matters, without digging through folders.
+Everyday work
+Built for work, not guesswork.
+Each team, its own workspace
+Clear roles and access so everyone sees what they need.
+See what changed
+Versions, dates and activity without relying on the team's memory.
+Uncertainty stays visible
+Outstanding items remain flagged until someone reviews them.
+Pilot · limited places
+We want to test it with the people doing this work every day.
+We start with fictitious or anonymised data. We welcome Canary Islands advisers and teams who can tell us what works and what doesn't.
+Request a demo
+Enter workspace
+Expediente VV organises information and tasks. It does not certify legality or replace official procedures or professional advice. Pilot contact:
+The pilot separates data by organisation, limits access by role and stores documents privately. Administrators can export a workspace and schedule deletion with a 30-day recovery period. Responsibilities and retention periods must be defined before processing real data. Demo requests are retained for a maximum of 12 months and consent to updates is optional.
+Laboratory rules retain their source, version and access date for review. Also consult the
+official procedure on the Canary Islands Government's online service
+Commercial pricing not available
+We are validating the product before setting prices.
+We want to validate the workflow before setting a commercial price. Subscriptions are not available yet. There are no payments or commitments during this phase.
+Collaborator pilot
+Access by invitation
+during validation
+Workspace for your team
+Anonymised test properties and dossiers
+Checklist, documents, alerts and PDF report
+Support to collect issues
+Data export before leaving the pilot
+Request a place
+Participation does not guarantee free future access or turn demonstration rules into validated professional criteria.
+What we want to learn
+Future pricing will be based on actual usage.
+We will assess property volumes, team roles and time saved coordinating documents. Before charging, we will communicate scope, price and terms for explicit acceptance.
+No payments now
+No cards or direct debits requested.
+Easy exit
+You can export data and schedule workspace deletion.
+Product under validation
+Features may change during the pilot.
+Expediente VV organises document work. It does not certify legality, replace official procedures or provide legal advice.
+Private pilot · Canary Islands
+Tell us how you manage your dossiers.
+We are looking for professional teams to test document-management workflows using fictitious or anonymised information.
+Personal response
+We will review suitability and contact you by email.
+Supported validation
+We care about your team's process, not selling a promise.
+Minimal data
+We do not request documents, addresses or owners' details.
+Access request
+Professional details
+We use these details to respond and assess participation in the pilot.

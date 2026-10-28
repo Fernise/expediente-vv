@@ -1,0 +1,74 @@
+/* A shared, restrained visual system. Layout and status semantics stay intact. */
+:root { --product-radius: 8px; --product-space: 24px; }
+body { font-feature-settings: "ss01", "cv11"; }
+h1,h2,h3,.button { font-family: var(--font-body),sans-serif; }
+.workspace-content { max-width: 1520px; padding: 36px 40px 64px; }
+.workspace-topbar { height: 68px; }
+.workspace-sidebar { box-shadow: none; }
+.workspace-brand { font-size: .95rem; letter-spacing: -.025em; }
+.workspace-nav { gap: 3px; margin-top: 34px; }
+.nav-item { min-height: 40px; font-size: .875rem; border-radius: 6px; }
+.nav-item svg { width: 17px; height: 17px; stroke-width: 1.65; }
+.nav-label,.eyebrow { letter-spacing: .085em; font-size: .67rem; font-weight: 600; }
+.workspace-location span { font-size: .72rem; }
+.workspace-location strong { font-size: .875rem; }
+.dashboard-heading h1,.page-heading h1,.dossier-heading h1 { font-family:var(--font-body),sans-serif; font-weight:600; letter-spacing:-.035em; font-size:clamp(1.9rem,2.7vw,2.65rem); line-height:1.2; }
+.dashboard-heading p,.page-heading p,.dossier-heading p { max-width:65ch; font-size:.9rem; }
+.button { border-radius:6px; font-weight:600; box-shadow:none; transition:background-color 140ms ease,border-color 140ms ease; }
+.button:hover { transform:none; }
+.button-primary { background:#3559a7; border-color:#3559a7; color:#fff; }
+.button-primary:hover { background:#2b4b8e; border-color:#2b4b8e; }
+.dossier-card,.lower-card,.pilot-price-card,.pricing-context-card,.demo-form-card,.form-section,.team-card,.privacy-card,.operations-card,.audit-card { border-radius:var(--product-radius); box-shadow:none; }
+.dossier-card { padding:26px; }
+.dossier-main-grid { gap:24px; align-items:start; }
+.dossier-overview-grid { gap:0; border-block:1px solid var(--theme-line); margin-block:28px; background:var(--theme-surface); }
+.dossier-summary-card { border:0; border-radius:0; box-shadow:none; background:transparent; padding:20px 24px; min-width:0; }
+.dossier-summary-card+.dossier-summary-card { border-left:1px solid var(--theme-line); }
+.dossier-summary-card>span { font-size:.78rem; font-weight:500; }
+.dossier-summary-card>strong { font-size:1.7rem; font-weight:600; letter-spacing:-.03em; }
+.dossier-summary-card>strong.summary-text { font-size:1rem; letter-spacing:-.01em; line-height:1.5; }
+.dossier-content .section-heading h2 { font-size:1.4rem; font-weight:600; letter-spacing:-.025em; }
+.dossier-content .section-heading p { font-size:.78rem; }
+.dossier-workflow-guide { border:0; border-radius:0; border-block:1px solid var(--theme-line); background:transparent; padding:22px 0; margin-block:24px; }
+.dossier-workflow-guide h2 { font-size:1.1rem; font-weight:600; }
+.dossier-workflow-guide p { font-size:.86rem; margin-block:8px 14px; }
+.dossier-workflow-guide nav a { border:0; border-bottom:2px solid var(--theme-line); border-radius:0; background:transparent; padding:9px 0; margin-right:22px; font-weight:500; }
+.dossier-workflow-guide nav a:hover { border-bottom-color:var(--theme-accent-text); background:transparent; }
+.checklist-kind-group { padding-top:22px; margin-top:26px; }
+.checklist-kind-group>h3 { font-weight:600; letter-spacing:-.02em; }
+.checklist-kind-group>p { font-size:.8rem; }
+.checklist-item { padding-block:22px; }
+.checklist-copy>span { text-transform:none; letter-spacing:0; font-size:.76rem; }
+.checklist-item .checklist-copy>h3 { font-size:1.05rem; font-weight:600; line-height:1.45; margin-top:5px; }
+.checklist-copy>p { font-size:.86rem; line-height:1.65; max-width:72ch; }
+.checklist-copy>small { font-size:.76rem; }
+.checklist-status-area { gap:10px; }
+.workflow-badge,.status-badge { border-radius:4px; font-size:.73rem; font-weight:500; }
+.task-edit-button { text-decoration:none; font-size:.8rem; color:var(--theme-accent-text); padding-block:10px; }
+.task-edit-button:hover { text-decoration:underline; }
+.task-editor { background:var(--theme-surface-muted); border-color:var(--theme-line); padding:22px; box-shadow:none; }
+.task-editor h3 { font-weight:600; }
+.field input,.field textarea,.premium-select-trigger,.date-picker-trigger { border-radius:6px; }
+.form-section-heading h2 { font-family:var(--font-body),sans-serif; letter-spacing:-.025em; }
+.form-section-heading>span { border:1px solid var(--theme-line); background:transparent; color:var(--theme-muted); border-radius:5px; }
+.pilot-dossier-banner,.edit-profile-note,.dossier-disclaimer { border-radius:6px; }
+.professional-review-record,.requirement-evidence { border-radius:5px; box-shadow:none; }
+.document-card,.property-card { border-radius:7px; box-shadow:none; }
+.landing-page .landing-orb { display:none; }
+.landing-hero { padding-top:64px; }
+.hero-copy h1 { font-family:var(--font-body),sans-serif; font-weight:500; letter-spacing:-.045em; font-size:clamp(2.6rem,4.8vw,4.8rem); line-height:1.08; max-width:14ch; }
+.hero-copy h1 em { font-style:normal; color:var(--theme-accent-text); }
+.hero-introduction>p { font-size:1.075rem; line-height:1.65; max-width:43ch; }
+.product-window { border-radius:10px; box-shadow:0 12px 36px #17233412; transform:none; }
+.feature-grid article,.outcomes-grid article { box-shadow:none; border-radius:7px; }
+html[data-theme="light"] .workspace-shell,html[data-theme="light"] .landing-hero { background:#f5f6f8; }
+html[data-theme="light"] .workspace-sidebar { background:#edf0f4; }
+html[data-theme="light"] .workspace-topbar { background:#fff; }
+html[data-theme="dark"] .button-primary { background:#3559a7; border-color:#5578bf; color:#fff; }
+@media(max-width:1000px){.dossier-summary-card{padding:18px}.dossier-card{padding:22px}}
+@media(max-width:760px){.workspace-content{padding:24px 18px 90px}.workspace-topbar{height:64px}.dossier-overview-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.dossier-summary-card:nth-child(3){border-left:0;border-top:1px solid var(--theme-line)}.dossier-summary-card:nth-child(4){border-top:1px solid var(--theme-line)}.dossier-card{padding:18px}.dossier-workflow-guide nav a{width:auto;margin-right:14px}.hero-copy h1{max-width:17ch}.landing-hero{padding-top:36px}.task-editor{padding:16px}}
+@media(prefers-reduced-motion:reduce){.button{transition:none}}
+.report-download-controls { display:grid; grid-template-columns:minmax(120px,150px) auto; align-items:center; gap:8px 10px; }
+.report-language-label { grid-column:1/-1; font-size:.75rem; color:var(--theme-muted); }
+.report-download-controls .button { white-space:nowrap; }
+@media(max-width:760px){.report-download-controls{width:100%;grid-template-columns:minmax(0,1fr) auto;}.report-download-controls .button{font-size:.85rem;padding-inline:12px;}}

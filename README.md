@@ -1,0 +1,94 @@
+<p align="center">
+  <img src="docs/assets/project-logo.svg" width="104" alt="Expediente VV project logo" />
+</p>
+
+# Expediente VV
+
+Document workflows for holiday-rental property dossiers.
+
+[![CI](https://github.com/Fernise/expediente-vv/actions/workflows/ci.yml/badge.svg)](https://github.com/Fernise/expediente-vv/actions/workflows/ci.yml)
+[![License: reserved](https://img.shields.io/badge/license-All_rights_reserved-52646b)](LICENSE)
+[![Built with Codex](https://img.shields.io/badge/Built_with-Codex-5B5BD6)](#development-approach)
+
+A multi-tenant B2B workspace for Canary Islands holiday-rental dossiers, private documents, review checklists and traceable rule workflows.
+
+**Technology:** React · TypeScript · Vinext/Vite · Cloudflare D1/R2 · Drizzle
+
+[Overview](#what-it-does) · [Quick start](#quick-start) · [Architecture](docs/ARCHITECTURE.md) · [Verification](docs/VERIFICATION.md)
+
+## What it does
+
+For property professionals organizing holiday-rental documentation and review work in the Canary Islands.
+
+- Organization workspaces, team roles and property-scoped permissions.
+- Property dossiers, comments, document versions and review checklists.
+- Versioned rules, independent professional review and traceable evaluations.
+- Private export, retention/deletion workflows and recovery verification.
+
+## Project status
+
+An anonymized-pilot MVP. Included rules and checklist states are drafts, not legal certification or professional advice. Real documents and live-data workflows require the outstanding security/provider checks; publication of this source does not enable them.
+
+## Preview
+
+![Local Expediente VV interface](docs/assets/preview.png)
+
+Captured locally using fictional interface examples and no real property records.
+
+## Quick start
+
+Requires Node.js 22.13+ and npm.
+
+```sh
+git clone https://github.com/Fernise/expediente-vv.git
+cd expediente-vv
+npm ci
+npm run dev
+```
+
+Open the URL printed by Vite. Local Cloudflare emulation uses the logical `DB` and `DOCUMENTS` bindings declared in `.openai/hosting.json`. SQL schema and migrations are in `db/` and `drizzle/`.
+
+The public configuration has no hosting account identifier or credentials. See [configuration](docs/CONFIGURATION.md) for local persistence and optional Gmail settings. Use fictional property records and your own isolated development resources.
+
+## Verification
+
+```sh
+npm run check
+npm run test:restore
+npm run lint
+npm run build
+```
+
+`npm run check` builds first, including type checking, then runs the automated regression suite. Some integration tests use local Miniflare resources. Recovery tests exercise fictional records and cryptographic handling; they are not a backup of a real deployment.
+
+## Repository map
+
+| Path | Responsibility |
+| --- | --- |
+| `app/` | Public pages, authenticated workspace and API routes |
+| `lib/ and db/` | Domain rules, data access and security boundaries |
+| `drizzle/` | Versioned database migrations |
+| `worker/ and build/` | Scheduled worker and build-time hosting adapter source |
+| `types/` | Cloudflare logical binding declarations |
+| `tests/` | Permissions, tenancy, document, rule and recovery tests |
+
+## Documentation
+
+- [Verification record and limits](docs/VERIFICATION.md)
+- [Architecture and data boundaries](docs/ARCHITECTURE.md)
+- [Configuration](docs/CONFIGURATION.md)
+- [Security policy](SECURITY.md)
+- [Contribution guidance](CONTRIBUTING.md)
+- [Third-party notices](THIRD_PARTY_NOTICES.md)
+
+## Development approach
+
+Created and directed by **[Fernando · @Fernise](https://github.com/Fernise)** using agentic programming with **OpenAI Codex**. Product direction, requirements and final decisions are the author’s; coding agents contributed to implementation, refactoring, documentation and testing.
+
+See the [verification record](docs/VERIFICATION.md) for completed checks and known limitations.
+
+## License
+
+Publicly viewable source; **all rights reserved**. No open-source reuse license is granted. See [LICENSE](LICENSE).
+
+Third-party libraries and assets retain their own licenses.

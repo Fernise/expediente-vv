@@ -1,0 +1,1 @@
+ALTER TABLE `properties` ADD `data_profile` text DEFAULT 'standard' NOT NULL;

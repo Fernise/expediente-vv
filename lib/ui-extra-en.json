@@ -1,0 +1,356 @@
+{
+  "No hemos podido confirmar la cancelación. Comprueba las invitaciones pendientes al recuperar la conexión antes de volver a intentarlo.": "We could not confirm the cancellation. Once your connection is restored, check pending invitations before trying again.",
+  "No hemos podido confirmar el resultado. Conservamos lo escrito. Comprueba si la acción se completó antes de enviar datos distintos.": "We could not confirm the result. Your input has been preserved. Check whether the action completed before submitting different data.",
+  "Identificador de operación inválido.": "Invalid operation identifier.",
+  "La operación cambió. Revisa los datos antes de enviarla de nuevo.": "The operation changed. Check the details before submitting it again.",
+  "Ya no tienes acceso al espacio creado. Revisa tus espacios antes de continuar.": "You no longer have access to the created workspace. Check your workspaces before continuing.",
+  "¿Tienes localizado qué documento corresponde a cada vivienda?": "Can you find the documents belonging to each property?",
+  "Piensa en contratos, justificantes y otros archivos: ¿puedes encontrarlos sin buscar en distintos correos o carpetas?": "Think of contracts, receipts and other files: can you find them without searching several inboxes or folders?",
+  "Crear un inventario documental único por vivienda.": "Create one document inventory for each property.",
+  "¿Registras las fechas y vencimientos conocidos de los documentos?": "Do you record known document dates and expiry dates?",
+  "Responde Sí si anotas las fechas que conoces y puedes consultar lo que caduca próximamente. No inventes una fecha si no aparece en el documento.": "Choose Yes if you record known dates and can check what expires soon. Do not invent dates that are absent from a document.",
+  "Registrar fechas conocidas y revisar los próximos vencimientos.": "Record known dates and review upcoming expiry dates.",
+  "¿Cada pendiente tiene una persona responsable y un siguiente paso?": "Does every outstanding item have an assignee and a next step?",
+  "Por ejemplo: Ana debe solicitar un justificante. No basta con una nota genérica de «falta documentación».": "For example: Ana needs to request a receipt. A generic note saying “documents missing” is not enough.",
+  "Asignar responsable y siguiente acción a cada pendiente.": "Assign someone and a next action to each outstanding item.",
+  "¿Conservas la versión anterior cuando sustituyes un archivo?": "Do you keep the previous version when replacing a file?",
+  "Responde Sí si puedes consultar el archivo anterior y saber cuándo se reemplazó, sin confundirlo con la versión vigente.": "Choose Yes if you can access the previous file and see when it was replaced without confusing it with the current version.",
+  "Mantener historial de versiones y fecha de cada sustitución.": "Keep a version history and the date of each replacement.",
+  "¿Separáis los datos y documentos de cada cliente o equipo?": "Do you keep each client's or team's data and documents separate?",
+  "Cada persona debería acceder solo a los expedientes que le corresponden. Si trabajas solo, piensa si las carpetas de distintos clientes están separadas.": "People should only access the dossiers assigned to them. If you work alone, consider whether different clients' folders are separate.",
+  "Revisar accesos y separación de información por organización.": "Review access and data separation by organisation.",
+  "¿Las dudas quedan señaladas para una revisión profesional?": "Do you flag uncertainties for professional review?",
+  "Una duda debe quedar como pendiente, no como requisito cumplido. Responde Sí si sabes qué debe revisar una persona profesional.": "An uncertainty should remain pending, not be marked as satisfied. Choose Yes if you know what needs professional review.",
+  "Marcar la incertidumbre y solicitar revisión profesional.": "Flag the uncertainty and request professional review.",
+  "Sí": "Yes",
+  "No": "No",
+  "Todavía no": "Not yet",
+  "No lo sé": "Not sure",
+  "Expediente incompleto": "Incomplete dossier",
+  "Requiere revisión profesional": "Professional review required",
+  "Pendiente de documentación": "Documentation pending",
+  "Preparado para revisión": "Ready for review",
+  "Hay varios puntos básicos de organización que conviene ordenar antes de preparar una revisión.": "Several basic organisational points need attention before preparing a review.",
+  "Quedan aspectos sin confirmar. Regístralos como incertidumbre y evita asumir una conclusión.": "Some points remain unconfirmed. Record them as uncertainties and avoid assuming a conclusion.",
+  "La base está organizada, pero todavía existen tareas documentales concretas.": "The basics are organised, but specific document tasks remain.",
+  "La organización declarada permite preparar el expediente para que una persona profesional lo revise.": "The organisation you describe allows the dossier to be prepared for professional review.",
+  "Activar modo claro": "Switch to light mode",
+  "Activar modo oscuro": "Switch to dark mode",
+  "Selecciona una opción": "Select an option",
+  "Sin dato": "Unknown",
+  "Pendiente": "Pending",
+  "Documentación solicitada": "Documents requested",
+  "Documento solicitado": "Document requested",
+  "Evidencia añadida": "Evidence added",
+  "En revisión": "Under review",
+  "Observado": "Needs attention",
+  "Revisado": "Reviewed",
+  "Sin fecha límite": "No deadline",
+  "Todos los avisos": "All alerts",
+  "Los avisos siguen disponibles · sincronización pendiente": "Alerts remain available · synchronisation pending",
+  "Reglas y revisión": "Rules and review",
+  "Actividad de los últimos 30 días": "Activity in the last 30 days",
+  "Buscar persona, vivienda o acción": "Search person, property or action",
+  "Últimos 7 días": "Last 7 days",
+  "Últimos 30 días": "Last 30 days",
+  "Últimos 90 días": "Last 90 days",
+  "Páginas de auditoría": "Audit pages",
+  "Abrir equipo": "Open team",
+  "Abrir reglas": "Open rules",
+  "Abrir detalle": "Open details",
+  "Sin cuentas antiguas pendientes en este espacio.": "No legacy accounts pending in this workspace.",
+  "Operación estable": "Stable operation",
+  "Sin incidencias detectadas": "No issues detected",
+  "Recogiendo señales": "Collecting signals",
+  "Pendiente del primer ciclo": "Waiting for the first cycle",
+  "Consulta las señales inferiores": "Check the signals below",
+  "Solicitudes": "Requests",
+  "Planificación": "Scheduling",
+  "con documentación pendiente": "with documentation pending",
+  "Pendientes de documentación": "Documentation pending",
+  "en los próximos 30 días": "in the next 30 days",
+  "Indicadores de atención": "Attention indicators",
+  "No disponible": "Unavailable",
+  "El expediente ya está disponible. Puedes revisar el checklist y completar el siguiente paso.": "The dossier is ready. Review the checklist and complete the next step.",
+  "La ficha, el responsable y el siguiente paso ya están actualizados.": "The record, assignee and next step are now updated.",
+  "Vivienda creada": "Property created",
+  "Cambios guardados": "Changes saved",
+  "Sin acción definida": "No action defined",
+  "Sin fecha objetivo": "No target date",
+  "Sin asignar": "Unassigned",
+  "Nueva versión sin revisar": "New version not reviewed",
+  "Suficiente según revisión": "Sufficient according to review",
+  "Insuficiente según revisión": "Insufficient according to review",
+  "Suficiencia sin valorar": "Sufficiency not assessed",
+  "Vigente": "Current",
+  "Caducada": "Expired",
+  "versión": "version",
+  "versiones": "versions",
+  "Análisis antimalware superado": "Malware scan passed",
+  "Control estructural del piloto": "Pilot structural check",
+  "Páginas de documentos": "Document pages",
+  "No indicada": "Not provided",
+  "No iniciada": "Not started",
+  "Activa": "Active",
+  "Suspendida": "Suspended",
+  "Sin especificar": "Not specified",
+  "Pendiente de control": "Check pending",
+  "Decisión registrada": "Decision recorded",
+  "Todos los estados": "All statuses",
+  "Todos": "All",
+  "Sin responsable": "Unassigned",
+  "Necesitan resolución": "Needs resolution",
+  "Sin contradicciones detectadas": "No contradictions detected",
+  "La versión está bloqueada mientras avanza por el circuito editorial.": "The version is locked while progressing through the editorial workflow.",
+  "La versión completó el circuito interno, pero sigue siendo contenido de demostración y no constituye criterio jurídico.": "The version completed the internal workflow, but remains demonstration content, not legal criteria.",
+  "Estas reglas son ejemplos operativos internos. No describen requisitos legales ni pueden publicarse como criterio profesional.": "These rules are internal operational examples. They do not describe legal requirements and cannot be published as professional criteria.",
+  "La composición está bloqueada mientras una persona distinta revisa sus condiciones, fuentes y explicaciones.": "The composition is locked while someone else reviews its conditions, sources and explanations.",
+  "La versión está publicada y conserva toda su trazabilidad editorial.": "The version is published and retains its complete editorial history.",
+  "Esta composición se conserva únicamente para auditoría.": "This composition is retained for audit purposes only.",
+  "La revisión profesional está registrada y ahora necesita una aprobación independiente.": "Professional review is recorded and independent approval is now required.",
+  "No hemos podido crear el espacio.": "We couldn't create the workspace.",
+  "Cada espacio separa viviendas, documentos, equipo y permisos. Podrás crear otros más adelante.": "Each workspace separates properties, documents, team and permissions. You can create more later.",
+  "Ej. Gestoría Atlántico": "e.g. Atlantic Advisory",
+  "Crear y entrar": "Create and open",
+  "Crear espacio": "Create workspace",
+  "No se pudo programar la eliminación.": "Deletion could not be scheduled.",
+  "No se pudo cancelar la eliminación.": "Deletion could not be cancelled.",
+  "Cancelar eliminación": "Cancel deletion",
+  "Programar eliminación": "Schedule deletion",
+  "No hemos podido enviar la solicitud.": "We couldn't send the request.",
+  "No hay conexión. Comprueba la red y vuelve a intentarlo.": "No connection. Check your network and try again.",
+  "Gestoría": "Administrative adviser",
+  "Gestor/a de viviendas": "Property manager",
+  "Arquitectura o perfil técnico": "Architect or technical professional",
+  "Asesoría legal": "Legal adviser",
+  "Otro perfil profesional": "Other professional role",
+  "Selecciona tu perfil": "Select your role",
+  "Número de viviendas gestionadas": "Number of properties managed",
+  "Más de 50": "More than 50",
+  "Selecciona un rango": "Select a range",
+  "Por ejemplo: coordinación con colaboradores, vencimientos o control de expedientes…": "For example: coordinating collaborators, deadlines or dossier tracking…",
+  "No se pudo ejecutar la comprobación.": "The check could not be completed.",
+  "Comprobación completada.": "Check completed.",
+  "No se pudo actualizar el vínculo.": "The link could not be updated.",
+  "No hay conexión.": "No connection.",
+  "No se pudo actualizar.": "The update could not be completed.",
+  "No se pudo registrar la revisión.": "The review could not be recorded.",
+  "Cerrar revisión": "Close review",
+  "Evidencia que se está revisando": "Evidence under review",
+  "Explica el criterio aplicado y cualquier limitación relevante.": "Explain the criteria applied and any relevant limitations.",
+  "Firmar decisión": "Sign decision",
+  "Vincular": "Link",
+  "Desvincular": "Unlink",
+  "No se pudo subir el documento.": "The document could not be uploaded.",
+  "Subiendo…": "Uploading…",
+  "Subir documento": "Upload document",
+  "No se pudo añadir la nueva versión.": "The new version could not be added.",
+  "Cancelar nueva versión": "Cancel new version",
+  "Archivo de la nueva versión": "New version file",
+  "Guardar nueva versión": "Save new version",
+  "No se pudo comprobar el archivo.": "The file could not be checked.",
+  "Comprobar ahora": "Check now",
+  "Comprobando…": "Checking…",
+  "No se pudo añadir el comentario.": "The comment could not be added.",
+  "Añade una nota sin nombres, contactos ni identificadores…": "Add a note without names, contact details or identifiers…",
+  "Añade una nota interna para el equipo…": "Add an internal note for the team…",
+  "se bloquearán identificadores directos": "direct identifiers will be blocked",
+  "Añadiendo…": "Adding…",
+  "Añadir comentario": "Add comment",
+  "No se pudo archivar.": "The property could not be archived.",
+  "Sí, archivar": "Yes, archive",
+  "Selecciona un municipio de la lista correspondiente a la isla.": "Select a municipality from the list for the island.",
+  "No se pudieron guardar los cambios.": "Changes could not be saved.",
+  "La dirección, los contactos y la referencia catastral siguen bloqueados.": "Address, contact details and cadastral reference remain blocked.",
+  "Nombre o razón social *": "Name or company name *",
+  "Guardar cambios": "Save changes",
+  "Selecciona uno de los municipios disponibles para la isla.": "Select one of the municipalities available for the island.",
+  "No hemos podido crear la vivienda.": "We couldn't create the property.",
+  "Los datos reales se habilitarán cuando la identidad reforzada y el antivirus externo estén verificados.": "Real data will be enabled once stronger identity checks and external antivirus scanning are verified.",
+  "Ej. Vivienda piloto 01": "e.g. Pilot property 01",
+  "Ej. Casa Atlántico": "e.g. Atlantic House",
+  "Calle, número y unidad (opcional)": "Street, number and unit (optional)",
+  "No se enviará ni almacenará en este modo.": "It will not be sent or stored in this mode.",
+  "Opcional. Puedes completarla más adelante.": "Optional. You can add it later.",
+  "Selecciona una isla": "Select an island",
+  "Selecciona primero una isla": "Select an island first",
+  "Las opciones aparecerán al seleccionar la isla.": "Options appear when you select an island.",
+  "Opcional. Se tratará como dato restringido.": "Optional. It will be treated as restricted data.",
+  "Completar documentación pendiente": "Complete outstanding documentation",
+  "Creando y abriendo…": "Creating and opening…",
+  "Navegación pública": "Public navigation",
+  "No se pudo crear la versión.": "The version could not be created.",
+  "No hay conexión. Revisa los campos y vuelve a intentarlo.": "No connection. Check the fields and try again.",
+  "Creando versión…": "Creating version…",
+  "No se pudo ejecutar la evaluación.": "The evaluation could not be run.",
+  "No hay conexión. Conservamos tus selecciones en pantalla.": "No connection. Your selections remain on screen.",
+  "Guardar y reevaluar": "Save and re-evaluate",
+  "Guardar y evaluar": "Save and evaluate",
+  "Evaluando…": "Evaluating…",
+  "Hay cambios sin evaluar.": "There are unevaluated changes.",
+  "Hechos sincronizados.": "Facts synchronised.",
+  "Sin tarea": "No task",
+  "La condición coincide": "The condition matches",
+  "La condición no coincide": "The condition does not match",
+  "Añade una nota de al menos 12 caracteres.": "Add a note of at least 12 characters.",
+  "No se pudo actualizar el estado editorial.": "The editorial status could not be updated.",
+  "No hay conexión. Vuelve a intentarlo.": "No connection. Try again.",
+  "Revisión profesional": "Professional review",
+  "Aprobación independiente": "Independent approval",
+  "Opcional. Añade contexto para la auditoría.": "Optional. Add context for the audit.",
+  "Enviar a revisión": "Submit for review",
+  "Aprobar versión": "Approve version",
+  "Versión aprobada": "Version approved",
+  "Revisión profesional registrada": "Professional review recorded",
+  "Enviada a revisión": "Submitted for review",
+  "Retirada de revisión": "Withdrawn from review",
+  "Gestiona equipo, viviendas y configuración": "Manages team, properties and settings",
+  "Gestor/a": "Manager",
+  "Revisa únicamente viviendas concedidas": "Reviews assigned properties only",
+  "Profesional": "Professional",
+  "Propietario/a": "Owner",
+  "Administrador/a": "Administrator",
+  "No se pudo preparar la invitación.": "The invitation could not be prepared.",
+  "La persona ya tenía cuenta y se ha añadido al espacio.": "The person already had an account and has been added to the workspace.",
+  "Invitación enviada por Gmail.": "Invitation sent through Gmail.",
+  "Invitación creada. Gmail necesita revisión antes de poder entregarla.": "Invitation created. Gmail needs attention before delivery.",
+  "Invitación creada. El correo queda en cola para reintento automático.": "Invitation created. Email is queued for automatic retry.",
+  "Invitación y correo preparados. El envío quedará pendiente hasta autorizar Gmail.": "Invitation and email prepared. Sending remains pending until Gmail is authorised.",
+  "No se pudo cancelar la invitación.": "The invitation could not be cancelled.",
+  "Invitación cancelada.": "Invitation cancelled.",
+  "No se pudo reenviar la invitación.": "The invitation could not be resent.",
+  "Invitación reenviada por Gmail.": "Invitation resent through Gmail.",
+  "El reenvío ha quedado en cola.": "Resending has been queued.",
+  "Preparar invitación": "Prepare invitation",
+  "No se pudo guardar el acceso.": "Access could not be saved.",
+  "No se pudo revocar el acceso.": "Access could not be revoked.",
+  "Guardar acceso": "Save access",
+  "Sin viviendas autorizadas": "No authorised properties",
+  "Correo preparado · próximo envío": "Email prepared · sending shortly",
+  "Correo preparado · autorización pendiente": "Email prepared · authorisation pending",
+  "El correo necesita revisión": "Email needs attention",
+  "Correo aún no preparado": "Email not prepared yet",
+  "Gmail está procesando el mensaje ahora.": "Gmail is processing the message.",
+  "Todavía no se ha intentado entregar.": "Delivery has not been attempted yet.",
+  "Google ha limitado temporalmente el envío": "Google has temporarily limited sending",
+  "La dirección de correo no es válida": "The email address is invalid",
+  "No se pudo cambiar de espacio": "The workspace could not be changed",
+  "No hemos podido cambiar de espacio. Inténtalo de nuevo.": "We couldn't change workspace. Try again.",
+  "Menú de navegación": "Navigation menu",
+  "Cerrar menú": "Close menu",
+  "Navegación principal": "Main navigation",
+  "Cerrar menú al tocar fuera": "Close menu by tapping outside",
+  "Abrir menú": "Open menu",
+  "Abrir avisos operativos": "Open operational alerts",
+  "Navegación móvil": "Mobile navigation",
+  "Qué viviendas necesitan atención": "Which properties need attention",
+  "Qué documentos faltan o vencen pronto": "Which documents are missing or expire soon",
+  "Quién debe realizar la siguiente acción": "Who should take the next action",
+  "Acceso a la vista de demostración": "Access the demonstration view",
+  "Abrir la demostración desde Casa Atlántico": "Open the demo from Casa Atlántico",
+  "Abrir la demostración desde Villa Marea": "Open the demo from Villa Marea",
+  "Abrir la demostración desde Apartamento Drago": "Open the demo from Apartamento Drago",
+  "Información legal": "Legal information",
+  "Ir al panel": "Go to workspace",
+  "Acceder": "Sign in",
+  "Bloqueado · control pendiente": "Blocked · check pending",
+  "Bloqueado por seguridad": "Blocked for security",
+  "Aprobada": "Approved",
+  "Observada": "Needs attention",
+  "Rechazada": "Rejected",
+  "Enviar solicitud": "Send request",
+  "Enviando…": "Sending…"
+  ,"Incompleto": "Incomplete"
+  ,"Revisado por profesional": "Professionally reviewed"
+  ,"No se ha podido confirmar si la operación terminó. Conservamos los datos. Puedes reintentar sin duplicar el registro.": "We couldn't confirm whether the operation finished. Your data is preserved. You can retry without duplicating the record."
+  ,"Estado del elemento": "Item status"
+  ,"Isla de la vivienda": "Property island"
+  ,"Municipio de la vivienda": "Property municipality"
+  ,"Elegir requisito": "Choose requirement"
+  ,"Vivienda archivada": "Property archived"
+  ,"Expediente VV — Control documental para viviendas vacacionales": "Expediente VV — Document management for holiday rentals"
+  ,"Organiza expedientes, documentos, vencimientos y revisiones profesionales de viviendas vacacionales en Canarias.": "Organise dossiers, documents, expiry dates and professional reviews for Canary Islands holiday rentals."
+  ,"Precios del piloto — Expediente VV": "Pilot pricing — Expediente VV"
+  ,"Condiciones provisionales del piloto de Expediente VV para equipos profesionales en Canarias.": "Provisional Expediente VV pilot terms for professional teams in the Canary Islands."
+  ,"Comprobador documental orientativo — Expediente VV": "Document organisation checker — Expediente VV"
+  ,"Revisa cómo organizas el expediente documental de una vivienda vacacional sin obtener conclusiones legales.": "Review how you organise a holiday rental's document dossier without drawing legal conclusions."
+  ,"Solicitar demostración — Expediente VV": "Request a demo — Expediente VV"
+  ,"Solicita acceso al piloto privado de Expediente VV para profesionales de Canarias.": "Request access to the private Expediente VV pilot for Canary Islands professionals."
+  ,"Elige «Sí» cuando puedas confirmar el hecho, «No» cuando sepas que no se cumple y «Sin dato» si todavía necesitas comprobarlo. Una respuesta no certifica el cumplimiento legal.": "Choose ‘Yes’ when you can confirm the fact, ‘No’ when you know it is not met, and ‘No data’ when it still needs checking. An answer does not certify legal compliance."
+  ,"Licencia y plan": "Licence and plan"
+  ,"Condiciones del piloto": "Pilot terms"
+  ,"Leer aviso legal completo": "Read the full legal notice"
+  ,"Leer información de privacidad": "Read privacy information"
+  ,"Consultar fuentes y alcance": "View sources and scope"
+  ,"Beta privada": "Private beta"
+  ,"Entorno de evaluación con datos ficticios o anonimizados. Sin contratación ni cobros.": "Evaluation environment with fictional or anonymised data. No paid subscriptions or charges."
+  ,"Condiciones de acceso": "Access terms"
+  ,"Beta privada · Canarias": "Private beta · Canary Islands"
+  ,"Beta privada · acceso autorizado": "Private beta · Authorised access"
+  ,"Beta privada · sin contratación": "Private beta · No paid subscriptions"
+  ,"Prueba el flujo de trabajo. Sin pagos ni permanencia.": "Try the workflow. No payments or commitment."
+  ,"Acceso de evaluación": "Evaluation access"
+  ,"Dirección y catastro opcionales con formatos de prueba": "Optional address and cadastral reference using test formats"
+  ,"Contactos ficticios; sin DNI, NIE, IBAN ni firmas": "Fictional contacts; no identity numbers, IBANs or signatures"
+  ,"Opcional: Calle Ejemplo 1, Calle Ficticia 2 o Calle Inventada 3. No uses una dirección real.": "Optional: Calle Ejemplo 1, Calle Ficticia 2 or Calle Inventada 3. Do not use a real address."
+  ,"Opcional: DEMO- seguido de letras o números. No se consulta el Catastro.": "Optional: DEMO- followed by letters or numbers. No cadastral lookup is performed."
+  ,"Puedes cambiarlo: Propietario 02 o Titular A-2. Este alias no crea una cuenta.": "You can change it: Propietario 02 or Titular A-2. This alias does not create an account."
+  ,"Solo @example.invalid. Contacto ficticio; no crea una cuenta ni recibe avisos.": "Only @example.invalid. Fictional contact; it does not create an account or receive notifications."
+  ,"Usa 000000000 o deja el campo vacío.": "Use 000000000 or leave the field empty."
+  ,"Puedes completar datos ficticios con los formatos indicados. Los datos reales siguen bloqueados.": "You can enter fictional data using the indicated formats. Real data remains blocked."
+  ,"Miembros activos con acceso a esta vivienda. Coordina el expediente; no equivale a quien valida una revisión.": "Active members with access to this property. Coordinates the case file; this is not the person who validates a review."
+  ,"Usa una dirección ficticia como Calle Ejemplo 1. Las direcciones reales siguen bloqueadas.": "Use a fictional address such as Calle Ejemplo 1. Real addresses remain blocked."
+  ,"Usa una referencia de prueba como DEMO-001, no una referencia catastral real.": "Use a test reference such as DEMO-001, not a real cadastral reference."
+  ,"Usa un correo ficticio terminado en @example.invalid. No se enviarán mensajes a ese contacto.": "Use a fictional email ending in @example.invalid. No messages will be sent to that contact."
+  ,"Para el teléfono de prueba usa 000000000 o déjalo vacío. No introduzcas un número real.": "For the test phone use 000000000 or leave it empty. Do not enter a real number."
+  ,"No añadas datos reales. Usa los formatos ficticios indicados en los campos de prueba y revisa cada archivo antes de subirlo.": "Do not add real data. Use the indicated fictional formats in test fields and review each file before uploading it."
+  ,"Ver documentos y versiones":"View documents and versions"
+  ,"Laboratorio de borradores":"Draft laboratory"
+  ,"Las sugerencias no se añaden solas al checklist ni cambian la fase del expediente. Revísalas y añade únicamente las tareas pertinentes. El PDF recoge solo la última evaluación guardada.":"Suggestions do not automatically enter the checklist or change the case file stage. Review them and add only relevant tasks. The PDF includes only the last saved evaluation."
+  ,"La traza de abajo corresponde a las respuestas anteriores. Guarda y reevalúa antes de generar el informe.":"The trace below uses the previous answers. Save and re-evaluate before generating the report."
+  ,"¿Hay documentación que permita identificar este expediente? Sí: existe y puedes localizarla. No: no se ha aportado. Sin dato: no la has comprobado. Subir un archivo no demuestra que sea suficiente.":"Is there documentation that identifies this case file? Yes: it exists and you can locate it. No: none has been provided. Unknown: you have not checked it. Uploading a file does not prove it is sufficient."
+  ,"¿El equipo tiene un canal de contacto registrado para el propietario? En la beta, un contacto ficticio sirve para probar el flujo, pero no permite contactar con una persona real.":"Does the team have a recorded contact channel for the owner? In the beta, a fictional contact can test the workflow, but cannot contact a real person."
+  ,"¿Has registrado las fechas que conoces de emisión, vencimiento o seguimiento? Sin dato si todavía no sabes qué fechas corresponden. No inventes vencimientos jurídicos.":"Have you recorded the known issue, expiry or follow-up dates? Choose Unknown if you do not know which dates apply. Do not invent legal deadlines."
+  ,"Seleccionar decisión":"Select a decision"
+  ,"Registrar decisión":"Record decision"
+  ,"Escribe un alias de vivienda de entre 2 y 80 caracteres.":"Enter a property alias between 2 and 80 characters."
+  ,"Selecciona un municipio de la lista de la isla elegida.":"Select a municipality from the selected island's list."
+  ,"El código postal debe comenzar por 35 para la provincia de la isla seleccionada.":"The postal code must start with 35 for the selected island's province."
+  ,"El código postal debe comenzar por 38 para la provincia de la isla seleccionada.":"The postal code must start with 38 for the selected island's province."
+  ,"Escribe un alias de propietario de entre 2 y 120 caracteres.":"Enter an owner alias between 2 and 120 characters."
+  ,"El correo no tiene un formato válido. Ejemplo: propietario02@example.invalid.":"The email format is invalid. Example: propietario02@example.invalid."
+  ,"Selecciona una fecha objetivo válida en el calendario.":"Select a valid target date in the calendar."
+  ,"La siguiente acción no puede superar 160 caracteres.":"The next action cannot exceed 160 characters."
+  ,"La dirección no puede superar 180 caracteres.":"The address cannot exceed 180 characters."
+  ,"La referencia no puede superar 30 caracteres.":"The reference cannot exceed 30 characters."
+  ,"El teléfono no puede superar 30 caracteres.":"The phone number cannot exceed 30 characters."
+  ,"Usa un alias como Propietario 02 o Titular A-2; debe incluir un número.":"Use an alias such as Propietario 02 or Titular A-2; it must contain a number."
+  ,"Retira los identificadores personales de este campo para mantener la prueba anonimizada.":"Remove personal identifiers from this field to keep the trial anonymised."
+  ,"Comprobación parcial: formato y provincia. La relación con municipio y calle aún no está verificada.":"Partial check: format and province. The municipality and street relationship has not yet been verified."
+  ,"Tareas operativas":"Operational tasks"
+  ,"Tareas operativas completadas:":"Operational tasks completed:"
+  ,"Requisitos para revisión profesional":"Requirements for professional review"
+  ,"Completar tareas organiza el expediente; no valida requisitos ni certifica su legalidad. Cada requisito necesita evidencia y una decisión del equipo profesional.":"Completing tasks organises the case file; it does not validate requirements or certify legality. Each requirement needs evidence and a decision from the professional team."
+  ,"Trabajo de gestión que el equipo puede completar. No equivale a una revisión profesional.":"Management work the team can complete. It is not a professional review."
+  ,"Criterios documentados que solo se cierran mediante una decisión profesional. Su inclusión no los convierte en requisitos jurídicos oficiales.":"Documented criteria that can only be closed through a professional decision. Inclusion does not make them official legal requirements."
+  ,"Sin elementos en este grupo.":"No items in this group."
+  ,"En curso":"In progress"
+  ,"Completada":"Completed"
+  ,"Una tarea operativa solo puede estar pendiente, en curso o completada; no es una revisión profesional.":"An operational task can only be pending, in progress or completed; it is not a professional review."
+  ,"Este requisito necesita una decisión profesional; no puede marcarse como tarea completada.":"This requirement needs a professional decision; it cannot be marked as a completed task."
+  ,"Solo puedes reclasificar un elemento pendiente sin evidencias, comentarios ni revisiones. Crea otro para conservar su historial.":"Only pending items with no evidence, comments or reviews can be reclassified. Create another item to preserve the history."
+  ,"No se pudo conectar con el servidor local. Mantén abierta la terminal con npm run dev y comprueba que localhost:3000 responde. Conservamos lo escrito y la clave de reintento. Antes de cambiar los datos, revisa Viviendas por si la creación se completó.":"Could not connect to the local server. Keep the terminal running npm run dev and check that localhost:3000 responds. Your input and retry key are preserved. Before changing the data, check Properties in case creation completed."
+  ,"El servidor devolvió una respuesta que no pudimos leer. Conservamos lo escrito. Revisa Viviendas antes de cambiar los datos o vuelve a intentar con los mismos datos.":"The server returned a response we could not read. Your input is preserved. Check Properties before changing the data, or retry with the same data."
+  ,"Solo datos ficticios. No introduzcas identificadores personales.":"Fictional data only. Do not enter personal identifiers."
+  ,"Opcional: Calle Ejemplo 1. Solo direcciones ficticias.":"Optional: Calle Ejemplo 1. Fictional addresses only."
+  ,"Formato y provincia comprobados; calle y municipio sin verificar.":"Format and province checked; street and municipality unverified."
+  ,"Opcional: DEMO-001. Sin consulta al Catastro.":"Optional: DEMO-001. No Cadastre lookup."
+  ,"Gestión y siguiente paso":"Management and next step"
+  ,"Coordina la vivienda; no concede permisos de revisión.":"Coordinates the property; does not grant review permissions."
+  ,"Ejemplo: Propietario 02. No crea una cuenta.":"Example: Propietario 02. Does not create an account."
+  ,"Solo @example.invalid. No recibe correos.":"Only @example.invalid. Does not receive email."
+  ,"Ayuda, privacidad y responsables":"Help, privacy and assignees"
+  ,"Completar tareas no valida requisitos ni certifica legalidad.":"Completing tasks does not validate requirements or certify legality."
+  ,"Gestión interna del equipo.":"Internal team work."
+  ,"Cierre con evidencia y decisión profesional. No son requisitos jurídicos oficiales.":"Closed with evidence and a professional decision. These are not official legal requirements."
+}

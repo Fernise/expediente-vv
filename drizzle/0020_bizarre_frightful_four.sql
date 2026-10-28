@@ -1,0 +1,1 @@
+ALTER TABLE `checklist_items` ADD `item_kind` text DEFAULT 'professional_requirement' NOT NULL;
