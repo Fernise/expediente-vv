@@ -1,16 +1,12 @@
 <p align="center">
-  <img src="docs/assets/project-logo.svg" width="104" alt="Expediente VV project logo" />
+  <img src="docs/assets/project-logo.svg" width="64" alt="Expediente VV project logo" />
 </p>
 
 # Expediente VV
 
-Document workflows for holiday-rental property dossiers.
+A multi-tenant B2B workspace for Canary Islands holiday-rental dossiers, private documents, review checklists and traceable rule workflows.
 
 [![CI](https://github.com/Fernise/expediente-vv/actions/workflows/ci.yml/badge.svg)](https://github.com/Fernise/expediente-vv/actions/workflows/ci.yml)
-[![License: reserved](https://img.shields.io/badge/license-All_rights_reserved-52646b)](LICENSE)
-[![Built with Codex](https://img.shields.io/badge/Built_with-Codex-5B5BD6)](#development-approach)
-
-A multi-tenant B2B workspace for Canary Islands holiday-rental dossiers, private documents, review checklists and traceable rule workflows.
 
 **Technology:** React · TypeScript · Vinext/Vite · Cloudflare D1/R2 · Drizzle
 
@@ -81,14 +77,8 @@ npm run build
 - [Contribution guidance](CONTRIBUTING.md)
 - [Third-party notices](THIRD_PARTY_NOTICES.md)
 
-## Development approach
-
-Created and directed by **[Fernando · @Fernise](https://github.com/Fernise)** using agentic programming with **OpenAI Codex**. Product direction, requirements and final decisions are the author’s; coding agents contributed to implementation, refactoring, documentation and testing.
-
-See the [verification record](docs/VERIFICATION.md) for completed checks and known limitations.
-
 ## License
 
-Publicly viewable source; **all rights reserved**. No open-source reuse license is granted. See [LICENSE](LICENSE).
+All rights reserved. See [LICENSE](LICENSE).
 
 Third-party libraries and assets retain their own licenses.
